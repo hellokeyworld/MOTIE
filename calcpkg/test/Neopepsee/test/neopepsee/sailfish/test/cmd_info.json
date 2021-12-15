@@ -1,0 +1,8 @@
+{
+    "sf_version": "0.10.0",
+    "index": "/opt/Yonsei/Neopepsee/3.0.1/database/ref/hg19/",
+    "libType": "ISF",
+    "mates1": "/data/project/MOTIE/Tool/calcpkg/test/test_1.fastq",
+    "mates2": "/data/project/MOTIE/Tool/calcpkg/test/test_2.fastq",
+    "output": "/data/project/MOTIE/Tool/calcpkg/test//Neopepsee/test/neopepsee/sailfish/test/"
+}
