@@ -2,7 +2,9 @@
 # MOTIE
 > Thank you for your interest in our work. In this github you will find :
 
+This tool can detect more accurate neoantigen based on Neopepsee with user-friendly pipelines.
 Pipeline incorporating HLA typing analysis using Optitype and neoantigen detection using Neopepsee.
+Optitype was used to obtain more accurate patient HLA type information than the HLA typing tool used in the conventional neoantigen detection pipeline.
 
 
 ![](../header.png)
