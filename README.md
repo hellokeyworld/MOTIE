@@ -49,7 +49,7 @@ git clone https://github.com/hellokeyworld/MOTIE
 Download the compressed file
 
 ```sh
-unzip MOTIE-master.zip
+unzip MOTIE-main.zip
 ```
 
 ## Usage
