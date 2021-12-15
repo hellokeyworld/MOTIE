@@ -1,11 +1,11 @@
 #### INPUT_INFO
 #### If you don't have HLA information, mark as "HLA=.".
-OptitypeDIR=/opt/Yonsei/OptiType/1.3.2/
-RID_1=/data/project/MOTIE/Tool/calcpkg/test/test_1.fastq
-RID_2=/data/project/MOTIE/Tool/calcpkg/test/test_2.fastq
-DIR=/data/project/MOTIE/Tool/calcpkg/test/
-NoepepseeDIR=/opt/Yonsei/Neopepsee/3.0.1/
+OptitypeDIR=/opt/Yonsei/OptiType/1.3.2/  ##path to Optitype
+RID_1=/data/project/MOTIE/calcpkg/test/test_1.fastq      ##path to rna_1.fastq 
+RID_2=/data/project/MOTIE/calcpkg/test/test_2.fastq      ##path to rna_2.fastq
+DIR=/data/project/MOTIE/calcpkg/test/                   
+NoepepseeDIR=/opt/Yonsei/Neopepsee/3.0.1/                ##path to neopepsee
 sample=test
-VCF=/data/project/MOTIE/Tool/calcpkg/test/test.vcf 
-HLA=/data/project/MOTIE/Tool/calcpkg/test/optiType/parse/test.hla.txt
+VCF=/data/project/MOTIE/calcpkg/test/test.vcf            ##path to annotated vcf
+HLA=/data/project/MOTIE/calcpkg/test/optiType/parse/test.hla.txt   ##path to hla info file
 ##HLA=.
