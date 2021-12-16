@@ -55,6 +55,8 @@ unzip MOTIE-main.zip
 ## Usage
 
 스크린 샷과 코드 예제를 통해 사용 방법을 자세히 설명합니다.
+The tools above should be installed in server and the PATH set in the files named "config".
+
 
 Below is an example for data with HLA info:
 
