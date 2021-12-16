@@ -76,13 +76,13 @@ python MOTIE.py [pullpath_config] [NO or N]
 Below is an example for TEST data with HLA info:
 
 ```sh
-python TEST.py config YES
+python TEST.py [pullpath_config] YES
 ```
 
 Below is an example for TEST data without HLA info:
 
 ```sh
-python TEST.py config NO
+python TEST.py [pullpath_config] NO
 ```
 
 
